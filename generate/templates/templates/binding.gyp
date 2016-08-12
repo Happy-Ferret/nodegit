@@ -8,7 +8,8 @@
       ],
 
       "variables": {
-        "coverage%": 0
+        "coverage%": 0,
+        'use_openssl_def': 0
       },
 
       "sources": [
